@@ -1,6 +1,19 @@
 # 💫 About Me:
-Data Research Analyst with a passion for harnessing the power of data to drive business growth. With a background in SQL, Excel, Power BI, and Python, I've successfully developed various personal data analytics projects, turning raw data into insightful reports and dashboards. I thrive on challenges and am always eager to leverage data to solve complex problems. Ready to connect and explore opportunities where we can drive data-informed decisions together!
+I am a DWH Engineer at Jumio with a strong foundation in financial analytics and a passion for building scalable, cloud-native data architectures. Currently, I am focused on the strategic migration of legacy systems from SQL Server to AWS (Redshift), ensuring that data is not just stored, but optimized for high-performance business enablement.
 
+My journey started at Morningstar, where I spent 2 years specializing in private market fund performance. I bridge the gap between complex engineering and business needs—a "Big Picture" mindset that helped me improve data accuracy by 70% and slash inconsistencies by 86% through targeted data quality initiatives.
+
+What I bring to the table:
+
+Data Engineering: Designing robust ETL pipelines, dimensional modeling (Star/Snowflake schemas), and implementing SCD strategies.
+
+Cloud Migration: Transitioning on-prem SQL Server environments to AWS, leveraging tools like Redshift and MWAA (Airflow).
+
+Analytical Roots: Proficient in SQL, Python, and Snowflake, with a proven track record of building fraud detection dashboards and AI-powered solutions (GPT-4o-mini).
+
+Business Impact: I don’t just move data; I enable functions. My goal is to transform massive datasets—whether it's 38K+ loan records or complex financial funds—into reliable, actionable assets.
+
+I thrive at the intersection of technical resilience and data-driven decision-making. Let’s connect to talk all things ETL, AWS, or the future of Data Warehousing!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan1saxena/) 
